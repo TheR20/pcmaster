@@ -1,0 +1,2 @@
+rootProject.name = "pcmasters"
+include ':app'
